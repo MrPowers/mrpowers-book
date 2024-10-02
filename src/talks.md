@@ -1,5 +1,23 @@
 # Talks
 
+**Best Practices for Unit Testing PySpark**
+
+*June 2024*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TbWcCyP2MgE?si=gNTEVZIppwYR36xs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Pandas on Spark: Simplicity of Pandas with Efficiency of Spark**
+
+*June 2024*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdZDotqKtps?si=-QZt2yK0QYruwJDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Best Features of Delta Lake: Love Your Open Tables**
+
+*June 2024*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fVRDIdE6Ulw?si=4U1zhLw41tk9glTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 **Building Lakehouse on Delta Lake**
 
 *September 2023*
